@@ -33,6 +33,12 @@ an issue for crashes: future work shall replace this component by our own
 implementation of the various mutation operators for a more fine-grained
 control.
 
+- Therefore, we accept that Pynguin generates flaky tests, which can influence the assertion generation and cause failures.
+
+- The results we report here, however, are promising. They show that also
+mutation-based assertion generation is feasible for dynamically typed programming languages; this again opens up new research perspectives targeting the
+underlying oracle problem.
+
 ### Motivation
 
 - To better understand the behaviour of PYNGUIN on different complex python modules 
