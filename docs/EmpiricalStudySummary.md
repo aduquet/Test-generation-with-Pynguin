@@ -137,7 +137,7 @@ model of a web browser to generate tests for JavaScript
     - Suporting all features of Python and also new versions bring new challenges
     - Generators, iterators,decorators,coroutines or higher-order functions challenges
     - The ability to implement modules in C/C++ and gets compiles to native binaries without any abstract syntax tree, without which PYNGUIN struggles in it.
-    - The lack of built-in support in python to deccide at runtime whether one is a subtype of another.
+    - The lack of built-in support in python to decide at runtime whether one is a subtype of another.
 
 
 - Empirical Evaluation
@@ -163,7 +163,7 @@ model of a web browser to generate tests for JavaScript
         - The standard coverage tool for Python is Coverage.py. It, however, measures branch coverage by comparing the transitions between sources lines that have occurred and that are possible. Measuring branch coverage using this technique is possibly imprecise.
         - implemented the computation of mutation scores ourselves. the mutation of the subject under test itself is done using a customised version of the MutPy mutation testing tool 
         - the mutation of the subject under test itself is done using a customised version of the MutPy mutation testing tool 
-        - Mitigated the threat of handling types of native dependencies by exclusion. However this does not exclude any functions which is partially implemented inC and could influentce our restults.
+        - Mitigated the threat of handling types of native dependencies by exclusion. However this does not exclude any functions which is partially implemented in C and could influence our restults.
 
     - External Validity:
         - It is conceivable that the exclusion of projects without type annotations or nativecode libraries leads to a selection of smaller projects, and the results may thus not generalise to other Python projects. 
