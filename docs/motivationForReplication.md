@@ -43,4 +43,6 @@ underlying oracle problem.
 
 - To better understand the behaviour of PYNGUIN on different complex python modules 
 
-- 
+- To ontribute to the core of PYNGUIN , first need to understand limitations of it.
+
+- To find if the statistics from previous study still validates
