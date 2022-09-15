@@ -37,9 +37,12 @@ control.
 
 - The results we report here, however, are promising. They show that also
 mutation-based assertion generation is feasible for dynamically typed programming languages; this again opens up new research perspectives targeting the
-underlying oracle problem.
+underlying oracle problem. 
 
 ### Motivation
+
+input  from DIETMAR
+-> Have to have  a really strong Motivation.
 
 - To better understand the behaviour of PYNGUIN on different complex python modules 
 
