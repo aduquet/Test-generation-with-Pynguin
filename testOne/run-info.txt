@@ -1,0 +1,4 @@
+project-name: httpie
+module-name: httpie.models
+seed: 0
+configuration-id: WS-NoTypeHints
